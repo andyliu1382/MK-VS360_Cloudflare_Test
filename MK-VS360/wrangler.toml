@@ -1,0 +1,13 @@
+name = "mk-vs360"
+compatibility_date = "2026-06-11"
+account_id = "b4d83ae96ae50348ed850208cbcadd5a"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mk-vs360"
+database_id = "616caf41-631f-44c4-b7b6-47416b3816a6"
+
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "mk-vs360-assets"
